@@ -22,6 +22,8 @@
     <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="SASS" title="SASS" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Graphql" title="Graphql" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
     </br>
     </br>
     <div style="margin:16px">
@@ -37,8 +39,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="Firebase" title="Firebase" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-    <img align="center" alt="Graphql" title="Graphql" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
     <img align="center" alt="Jenkins" title="Jenkins" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
     <img align="center" alt="Jest" title="Jest" height="30" width="40"
