@@ -23,14 +23,15 @@
     <img align="center" alt="SASS" title="SASS" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     </br>
+    </br>
     <div style="margin:16px">
       <img align="center" alt="Bitbucket" title="Bitbucket" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
       <img align="center" alt="Heroku" title="Heroku" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
       <img align="center" alt="Git" title="Git" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img align="center" alt="Github" title="Github" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
       <img align="center" alt="Gitlab" title="Gitlab" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-      </div>
-      </br>
+    </div>
+    </br>
     <img align="center" alt="Docker" title="Docker" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="Figma" title="Figma" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
