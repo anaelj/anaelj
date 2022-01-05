@@ -45,7 +45,7 @@
     <img align="center" alt="Mongodb" title="Mongodb" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="Mysql" title="Mysql" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Redis" title="Redis" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-    <img align="center" alt="Kubernates" title="Kubernates" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernates/kubernates-plain.svg">
+    <img align="center" alt="Kubernetes" title="Kubernetes" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
     <img align="center" alt="Figma" title="Figma" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="Firebase" title="Firebase" height="30" width="40"
