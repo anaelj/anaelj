@@ -43,7 +43,7 @@
 
   <img align="center" alt="Jest" title="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   
-  <img align="center" alt="Jira" title="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  <img style="margin-top: 16px" align="center" alt="Jira" title="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
 
 
 </div>
