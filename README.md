@@ -13,6 +13,8 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="React" title="React" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="NextJS" title="NextJS" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Babel" title="Babel" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg">
     <img align="center" alt="HTML" title="HTML" height="30" width="40"
@@ -22,8 +24,11 @@
     <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="SASS" title="SASS" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="NestJS" title="NestJS" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
     <img align="center" alt="Graphql" title="Graphql" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+    <img align="center" alt="PHP" title="PHP" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
     </br>
     </br>
     <div style="margin:16px">
@@ -35,6 +40,12 @@
     </div>
     </br>
     <img align="center" alt="Docker" title="Docker" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Linux" title="Linux" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Nginx" title="Nginx" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+    <img align="center" alt="Mongodb" title="Mongodb" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Mysql" title="Mysql" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Redis" title="Redis" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+    <img align="center" alt="Kubernates" title="Kubernates" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernates/kubernates-plain.svg">
     <img align="center" alt="Figma" title="Figma" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="Firebase" title="Firebase" height="30" width="40"
