@@ -8,10 +8,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaelj&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;gap:30px"><br>
-     <img align="center" alt="Js" title="JS"" height=" 30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Js" title="JS"" height=" 30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ts" title="TS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    </div>
     <img align="center" alt="React" title="React" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Babel" title="Babel" height="30" width="40"
@@ -23,7 +22,7 @@
     <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="SASS" title="SASS" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <div>
+    <div style="margin:16px">
       <img align="center" alt="Bitbucket" title="Bitbucket" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
       <img align="center" alt="Heroku" title="Heroku" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
       <img align="center" alt="Git" title="Git" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
