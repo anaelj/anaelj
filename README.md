@@ -37,6 +37,7 @@
       <img align="center" alt="Git" title="Git" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img align="center" alt="Github" title="Github" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
       <img align="center" alt="Gitlab" title="Gitlab" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+      <img align="center" alt="Subversion" title="Subversion" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg">
     </div>
     </br>
     <img align="center" alt="Docker" title="Docker" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -56,6 +57,8 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
     <img align="center" alt="Jira" title="Jira" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+    <img align="center" alt="Trello" title="Trello" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
 
 </div>
 
